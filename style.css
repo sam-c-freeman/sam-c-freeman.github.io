@@ -8,6 +8,13 @@ body {
   text-align: center;
 }
 
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 #box-container {
   display:flex;
 }
