@@ -12,7 +12,7 @@ body {
   margin-bottom: 10px;
 }
 
-.headshot {
+headshot {
   display: flex;
   justify-content: center;
 }
