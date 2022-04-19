@@ -23,7 +23,7 @@ body{
                         "left right"
                         "footer footer";
   grid-template-columns: 1fr 2fr;
-  grid-template-rows: 1fr 1fr 6fr .125fr;
+  grid-template-rows: .125fr 1fr 6fr .125fr;
 
 }
 
