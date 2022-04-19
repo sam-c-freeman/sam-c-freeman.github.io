@@ -68,6 +68,10 @@ nav {
   
 }
 
+.container-img img {
+  max-height: 100%;
+}
+
 img {
   height: 100%;
   display: flex;
