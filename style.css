@@ -73,7 +73,7 @@ img {
   display: flex;
   margin-left: auto;
   width: 1fr;
-  
+  border-radius: 5px;
  }
 
 
