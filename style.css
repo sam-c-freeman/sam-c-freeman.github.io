@@ -46,7 +46,7 @@ img {
  }
 
 .about{
-  max-width: 550px;
+  width: minmax(300px,550px);
 }
 
 #contact{
