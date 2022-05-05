@@ -61,7 +61,6 @@ img {
   background-color: #4D774E;
   grid-area: headshot;
   border-radius: var(--main-radius); 
- display: flex;
 }
 
 #sidebar{ 
