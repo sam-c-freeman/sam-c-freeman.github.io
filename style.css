@@ -39,14 +39,14 @@ header{
 
 
 img {
-  height: 100%;
+  max-height: 100%;
   display: flex;
   margin: auto;
   border-radius: 5px;
  }
 
 .about{
-  width: minmax(300px,550px);
+  width: max-width: 550px;
 }
 
 #contact{
